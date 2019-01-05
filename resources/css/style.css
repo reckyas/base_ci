@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+body {
+	background: linear-gradient(#10106b, #540c5d);
+	height:100vh;
+}
+.box {
+	background: #272786;
+	color: #fff;
+	padding: 15px;
+	width: 100%;
+	max-width: 300px;
+}
+.banner-login {
+	font-family: 'Montserrat', sans-serif;
+}
+.banner-login h1 {
+	font-size: 2rem;
+    text-transform: uppercase;
+}
+.banner-login h1:before {
+	
+}
